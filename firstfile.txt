@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 #second Document - local modification
-=======
-#second Document - remote modification
->>>>>>> 2a592fb49b799059146b25e232366afcc22ed0d2
