@@ -3,3 +3,4 @@ data added in newbranch
 ## change not committed
 "data from master"
 content added on nb2
+data added before changing branch
